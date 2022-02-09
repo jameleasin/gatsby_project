@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-js",
+    "path": "/tags/",
+    "result": {"data":{"allContentfulRecipe":{"nodes":[{"content":{"tags":["lamb","dinner","food"]}},{"content":{"tags":["salad","lunch","food"]}},{"content":{"tags":["pie","dessert","food"]}},{"content":{"tags":["ribs","dinner","food"]}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2468095761"]}
