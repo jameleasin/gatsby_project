@@ -1,3 +1,7 @@
+This app showcases the use of Graphql for gatsby static images.
+The use of a headless CMS, in this case Contently was used. With in the CMS JSON objects where used for page content, then iterated over in the code to be able to display on the page.
+The use of slugs to generate tags and making pages progamatically
+
 You can test this site out here https://gatsby-recipe-site.netlify.app/
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
